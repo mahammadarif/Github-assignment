@@ -1,0 +1,1 @@
+void palin(char *);
